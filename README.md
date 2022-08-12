@@ -1,4 +1,4 @@
-# i_am_rich
+# i_am_cute_af
 
 A new Flutter project.
 
